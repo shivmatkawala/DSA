@@ -150,7 +150,6 @@ class LinkedList:
         self.length = 0
 
 
-
 new_linked_list = LinkedList()
 print(new_linked_list.head)
 print(new_linked_list.tail)
